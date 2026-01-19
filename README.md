@@ -67,7 +67,7 @@
 
 ## 📫 Connect With Me
 
-- 💼 GitHub: [https://github.com/YOUR_GITHUB_USERNAME ](https://github.com/shubhamvishwakarma12/shubhamvishwakarma12) 
+- 💼 GitHub: https://github.com/shubhamvishwakarma12/shubhamvishwakarma12
 - 📧 Email: vishwakarmashubham791@gmail.com
 ---
 
