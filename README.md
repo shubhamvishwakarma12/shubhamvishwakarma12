@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Gogwale
+# 👋 Hi, I'm Shubham Vishwakarma
 
 🚀 Full-Stack Developer | React | Node.js | MySQL | REST APIs  
 💻 Passionate about building scalable web applications  
@@ -65,18 +65,10 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
-
----
-
 ## 📫 Connect With Me
 
-- 💼 GitHub: https://github.com/YOUR_GITHUB_USERNAME  
-- 📧 Email: your.email@example.com  
-
+- 💼 GitHub: [https://github.com/YOUR_GITHUB_USERNAME ](https://github.com/shubhamvishwakarma12/shubhamvishwakarma12) 
+- 📧 Email: vishwakarmashubham791@gmail.com
 ---
 
 ⭐️ *If you like my work, feel free to star my repositories!*
