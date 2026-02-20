@@ -19,7 +19,7 @@
 ### 🧑‍💻 About Me
 
 - 🔭 Currently building **Admin Dashboards** & **FinTech-style platforms**
-- 🌱 Sharpening skills in **React, Vite, Tailwind CSS, Node.js, MySQL**
+- 🌱 Sharpening skills in **React,  Tailwind CSS, Node.js, MySQL**
 - 🧠 Deep experience with **API integrations, JWT auth, role-based systems & dashboards**
 - ⚡ Love turning real-world problems into clean, efficient code
 - 🛠️ Strong believer in reusable components, optimized queries & secure architecture
@@ -30,7 +30,6 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router" />
